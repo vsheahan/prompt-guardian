@@ -1,7 +1,9 @@
-
-
+<p align="left">
+  <img src="./assets/prompt_guardian_logo_dark.png" alt="Prompt Guardian Logo" height="120">
+</p>
 
 # Prompt Guardian
+
 
 Prompt Guardian is a lightweight CLI tool that acts as a protective layer between users and a local LLM, such as one running via Ollama. It evaluates prompts before they're sent to the model, allowing or blocking based on configurable policy logic.
 

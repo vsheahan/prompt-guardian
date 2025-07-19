@@ -1,0 +1,40 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+# CLI artifacts
+cli.log
+prompt_guardian.egg-info/
+
+guard/logs/
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Test artifacts
+*.log
+*.tmp
+
+# Distribution/build artifacts
+dist/
+build/
+*.egg-info/
+
+# Python wheel and cache folders
+*.egg
+*.whl
+.eggs/
+.cache/
+pip-wheel-metadata/

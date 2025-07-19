@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assets/prompt_guardian_logo_dark.png" alt="Prompt Guardian Logo" height="275">
+  <img src="./assets/logo.png" alt="Prompt Guardian Logo" height="275">
 </p>
 
 # Prompt Guardian

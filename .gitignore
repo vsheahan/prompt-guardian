@@ -38,3 +38,7 @@ build/
 .eggs/
 .cache/
 pip-wheel-metadata/
+venv/
+__pycache__/
+*.pyc
+logs/
